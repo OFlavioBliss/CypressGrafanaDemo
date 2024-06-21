@@ -8,6 +8,8 @@ IDE: InteliJ or VSCode as prefered
 
 npm or similar https://docs.npmjs.com/downloading-and-installing-node-js-and-npm
 
+
+
 How to Run?
 Open IDE cmd run > "npm install cypress" (InteliJ will "auto" ask to and intall all dependencies)
 
