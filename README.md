@@ -3,7 +3,9 @@
 
 Pre Requesites:
 Install Node.js v20.9.0  https://nodejs.org/en/blog/release/v20.9.0
+
 IDE: InteliJ or VSCode as prefered
+
 npm or similar https://docs.npmjs.com/downloading-and-installing-node-js-and-npm
 
 How to Run?
